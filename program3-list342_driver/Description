@@ -1,0 +1,10 @@
+Language: C++
+You will build a class for a fully ordered list.  The list class, called List342, will be templatized so 
+that different types of objects can be stored in it. 
+ 
+ List342<string> some_strings; 
+ List342<int> list_of_integers; 
+ List342<Child> children; 
+ List342<MyRandomObj> ordered_list_random_objs; 
+ 
+The following member functions should be created for the List342 class. 
